@@ -32,5 +32,17 @@ One servo controls the horizontal movement of the arm, while the other controls 
 A small dead-zone is implemented in the control logic to avoid unwanted jitter when the joystick is near the center position.
 This allows smooth, stable, and real-time control of the robotic arm.
 
+## Results
+- The robotic arm demonstrated smooth and responsive real-time movement.
+- Servo motors accurately followed joystick inputs for both horizontal and vertical motion.
+- The arm structure was stable and suitable for repeated testing.
+- Minor calibration was required to optimize joystick sensitivity and servo speed.
+
+## Future Scope
+- Addition of a gripper mechanism for object handling
+- Increasing degrees of freedom by adding more servo motors
+- Wireless control using Bluetooth or Wi-Fi modules
+- Gesture or voice-based control
+- Integration of sensors for feedback and partial automation
 
 📌 Status: Code and implementation details will be added step by step.
