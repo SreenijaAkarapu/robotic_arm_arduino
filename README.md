@@ -45,4 +45,4 @@ This allows smooth, stable, and real-time control of the robotic arm.
 - Gesture or voice-based control
 - Integration of sensors for feedback and partial automation
 
-📌 Status: Code and implementation details will be added step by step.
+
